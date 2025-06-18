@@ -1,5 +1,5 @@
 """
-Ini adalah demi pertama project menggunakan python
+Ini adalah demi pertama project dengan python
 """
 
 print("Hello World!")
